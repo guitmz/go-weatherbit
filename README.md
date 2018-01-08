@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/guitmz/go-weatherbit.svg?branch=master)](https://travis-ci.org/guitmz/go-weatherbit)
+
 # go-weatherbit
 A Go package for interacting with the Weatherbit API.
 
