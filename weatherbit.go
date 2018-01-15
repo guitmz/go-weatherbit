@@ -92,4 +92,3 @@ func GetWeather(country string, city string, apiKey string) (CurrentObservation,
 		return CurrentObservation{}, err
 	}
 }
-
