@@ -26,6 +26,6 @@ func check(e error) {
 func main() {
 	weather, err := weatherbit.GetWeather("COUNTRY", "CITY", "API_KEY")
 	check(err)
-  fmt.Printf("%+v\n", weather)
+  	fmt.Printf("%+v\n", weather)
 }
 ```
